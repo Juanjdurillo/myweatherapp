@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_detailed">DetailedActivity</string>
+    <string name="title_settings_activity">Settings Activity</string>
+
+    <string name="pref_location_key">location</string>
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_default">Malaga,es</string>
+
+    <string name="pref_metrics_key">metrics</string>
+    <string name="pref_metrics_label">Unit</string>
+    <string name="pref_metrics_default">metrics</string>
+    <string name="pref_metrics_summary">Indicate the preferred Units for temperature</string>
+    <string name="action_map">Preferred Location</string>
+    <string name="action_share">Share</string>
+
+
+
+</resources>
